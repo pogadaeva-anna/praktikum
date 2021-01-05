@@ -49,8 +49,6 @@
 - обработка данных
 - парсинг данных
 - визуализация
-- статистический тест, 
-- критерий Стьюдента
 
 ## Используемые инструменты
-SQL, Python, Pandas, Matplotlib, SciPy
+SQL, Python, Pandas, Matplotlib, requests, bs4
